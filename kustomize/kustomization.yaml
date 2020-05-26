@@ -1,5 +1,5 @@
 namespace: argocd-sandbox
 
-resouces:
+resources:
 - deployment.yaml
 - service.yaml
